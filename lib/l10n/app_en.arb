@@ -1,0 +1,10 @@
+{
+"app_title" : " Todo List " ,
+"task_list" : "Task List" ,
+"settings" : "Settings" ,
+"new_task" : "Add new Task",
+"title" : "Task Title",
+"desc" : "Task Description" ,
+"add" : "Add"
+
+}
